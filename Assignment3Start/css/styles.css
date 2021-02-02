@@ -1,0 +1,37 @@
+body { 
+    background-color: #fcfdfd; 
+    padding-right: 30px;
+    padding-left: 30px;
+}
+header {
+    text-align: center; 
+} 
+img {
+    width: 300px;
+}
+body { 
+    background-color: #98ebeb; 
+    padding-right: 30px;
+    padding-left: 30px;
+}
+section {
+
+}
+header {
+    text-align: center; 
+} 
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+footer{
+    bottom: 0;
+    position: relative;
+    width: 90%;
+    text-align:center;
+    color:#fdfbfb;
+    font-style: italic;
+    border-top:slategrey;
+    font-size: 14px;
+}
